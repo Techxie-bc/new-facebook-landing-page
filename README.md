@@ -1,2 +1,2 @@
 # new-facebook-landing-page
-# first time cloning an app
+# facebook-clone done with html and css only
